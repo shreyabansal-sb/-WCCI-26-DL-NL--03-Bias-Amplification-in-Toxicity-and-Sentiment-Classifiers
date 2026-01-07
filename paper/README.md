@@ -1,1 +1,1 @@
-conference template and draft paper docx go here
+draft paper docx will go here
